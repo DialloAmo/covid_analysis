@@ -1,0 +1,28 @@
+name: data_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - lxml
+  - beautifulsoup4
+  - openpyxl
+  - pyarrow
+  - pandas
+  - ipywidgets
+  - notebook
+  - jupyterlab
+  - matplotlib
+  - xgboost
+  - ipykernel
+  - xlsxwriter
+  - lightgbm
+  - requests
+  - scipy
+  - statsmodels
+  - numpy
+  - catboost
+  - pytorch
+  - cpuonly
+  - rpy2
+prefix: /opt/miniconda3/envs/data_env

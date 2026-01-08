@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Data (si tu ne veux pas pousser le dataset)
+# data/
+
+# Envs (au cas où)
+env/
+venv/
+data/
