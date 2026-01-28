@@ -22,7 +22,8 @@ Dans un contexte médical, l’objectif est de limiter au maximum les **faux né
 
 > Remarque : après nettoyage (suppression des colonnes avec plus de 90% de NaN) le dataset est réduit à **39 colonnes**.  
 > Après preprocessing (gestion NaN actuelle par suppression de lignes), l’échantillon utilisé pour l’entraînement/test est fortement réduit.
-
+> Le dataset etant un peu lourde j'ai pas mettre dans mon repository dans le Guithub mais vous pouvez le retrouver via ce lien
+> https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3kyM2FjaU9aZVhvcmRUYUdxRlJxM3NUcTV1QXxBQ3Jtc0trR1RDbjEtWHpKRjFNUWJ6LTk5bG9RcmkxaG5wNVFxYXRWS3hzTlJvaGpRdWpVTTAwRHhmWXFwYlRMZTJ2eExnTDlxZ2V4QnFZTXpuRno3Sm5oYmh1NUNjTXFTaUNDWno0SlIzaGRUbkJsSmxnUEFORQ&q=https%3A%2F%2Fwww.kaggle.com%2Feinsteindata4u%2Fcovid19&v=1bJYEE9qgS4
 ---
 
 ## Méthodologie
