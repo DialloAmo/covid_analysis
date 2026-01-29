@@ -25,9 +25,7 @@ Dans un contexte médical, l’objectif est de limiter au maximum les **faux né
 - Forte proportion de valeurs manquantes → filtrage et sélection de variables nécessaires.
 
 > Remarque : après nettoyage (suppression des colonnes avec plus de 90% de NaN) le dataset est réduit à **39 colonnes**.  
-> Après preprocessing (gestion NaN actuelle par suppression de lignes), l’échantillon utilisé pour l’entraînement/test est fortement réduit.
-> Le dataset etant un peu lourde j'ai pas mettre dans mon repository dans le Guithub mais vous pouvez le retrouver via ce lien
-> 
+> Après preprocessing (gestion NaN actuelle par suppression de lignes), l’échantillon utilisé pour l’entraînement/test est fortement réduit. 
 ---
 
 ## Méthodologie
