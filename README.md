@@ -1,5 +1,17 @@
 # Diagnostic COVID-19 — Classification (Clinical & Laboratory Data)
 
+## Overview
+
+This project focuses on predicting SARS-CoV-2 positivity using clinical and biological data.
+
+The modeling approach emphasizes recall-oriented evaluation, given the importance of minimizing false negatives in a healthcare context.
+
+The workflow includes:
+- Data preprocessing and feature engineering  
+- Pipeline-based modeling (scikit-learn)  
+- Model evaluation using confusion matrix and precision–recall analysis  
+- Threshold analysis for decision-making  
+
 ## Contexte
 Ce projet vise à prédire le résultat du test **SARS-Cov-2** (positif vs négatif) à partir de variables cliniques/biologiques issues du dataset **“Diagnostic of COVID-2019 and its clinical spectrum”**.
 
